@@ -9,9 +9,6 @@
 	"References": [
 		{
 			"Name": "$(EnginePath)/Flax.flaxproj"
-		},
-		{
-			"Name": "$(ProjectPath)/Plugins/ImGui/ImGui.flaxproj"
 		}
 	]
 }
